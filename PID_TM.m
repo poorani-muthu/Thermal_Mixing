@@ -35,10 +35,7 @@ for i=2:length(time)
         
     else 
         spT=303.8;
-        spH=5.096;
-        wh(1)=4;
-        wc(1)=6;
-        
+        spH=5.096;        
     end
 
     wc_new=wc(i-1);
